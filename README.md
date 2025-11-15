@@ -31,6 +31,5 @@ Proyecto de reducción de dimensionalidad y clustering usando **PCA** y **K-Mean
 - Mejor k según Silhouette Score: **k = 4**
 
 ## Enlaces
-
-- 📄 Informe PDF: *(se añadirá el enlace o nombre del archivo cuando se suba)*  
-- 🎥 Video explicando el código: *(se añadirá el enlace al terminar el video)*  
+- 📁 Repositorio GitHub: https://github.com/stivenalvarez/ML_Supervisado_PCA_KMeans.git  
+- 🎥 Video explicando el código: https://youtu.be/yCPsqoPWvq8?feature=shared
